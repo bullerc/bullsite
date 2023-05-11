@@ -1,0 +1,10 @@
+
+  @font-face {
+    font-family: 'Robtronika-4Bq8p';
+    src: url('./fonts/Robtronika-4Bq8p.ttf') format('truetype');
+  }
+  
+  .bull-text {
+    font-family: 'Robtronika-4Bq8p', sans-serif;
+  }
+  

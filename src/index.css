@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+body {
+  font-family: 'Bratsy Script Regular', sans-serif;
+}
+
+:root {
+  background-color: #723017;
+}
+
